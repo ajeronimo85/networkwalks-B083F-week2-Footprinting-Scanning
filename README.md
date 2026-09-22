@@ -55,11 +55,12 @@ Detects whether a website sits behind a Web Application Firewall (WAF) and ident
 
 wafw00f https://networkwalks.com
 wafw00f https://example.com
+![](5-screenshot-wafw00f.png)
 
 
 
 
-![](4-screenshot-android-networksethings.png)
+
 ![](4-screenshot-android-networksethings.png)
 ![](4-screenshot-android-networksethings.png)
 ![](4-screenshot-android-networksethings.png)
