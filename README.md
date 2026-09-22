@@ -30,7 +30,9 @@ whois networkwalks.com
 
 ![](1-screenshot-whois.png)
 
-Figure 1: WHOIS output showing registrar (GoDaddy), creation/expiry dates, and name servers.
+# Task 2: Web Technology Fingerprinting (whatweb)
+whatweb identifies CMS platforms, web server daemons, programming languages, and JavaScript libraries.
+
 
 
 
