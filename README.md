@@ -40,7 +40,7 @@ nslookup queries DNS servers to resolve a domain name to its IP addresses.
 
 nslookup networkwalks.com
 
-![](3-screenshot-kalilinux-networksethings.png)
+![](3-screenshot-nslookup.png)
 
 ![](4-screenshot-android-networksethings.png)
 
