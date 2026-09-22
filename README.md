@@ -77,7 +77,7 @@ Harvests public corporate emails, employee names, search engine subdomains, and 
 # W2-PM5: Zenmap & Nmap Network Scanning (Essential)
 ![](9-screenshot-zenmapipconfig.png)
 
-
+# 🖥️ Local Network Scanning Steps with Zenmap
 
 
 ![](4-screenshot-android-networksethings.png)
