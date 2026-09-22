@@ -79,7 +79,12 @@ Harvests public corporate emails, employee names, search engine subdomains, and 
 
 # 🖥️ Local Network Scanning Steps with Zenmap
 
+![](10-screenshot-zenmaphostscan.png)
 
+
+
+![](4-screenshot-android-networksethings.png)
+![](4-screenshot-android-networksethings.png)
 ![](4-screenshot-android-networksethings.png)
 
 
