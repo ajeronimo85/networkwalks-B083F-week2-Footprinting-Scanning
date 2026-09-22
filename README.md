@@ -28,3 +28,8 @@ Week 2 focuses on the foundational phases of ethical hacking and penetration tes
 |                                                                                       |
 |  [06. REPORTING] ===> Comprehensive Penetration Testing Documentation (W2-PM-FINAL)   |
 +---------------------------------------------------------------------------------------+
+
+# Standard lookup
+whois networkwalks.com
+![](1-screenshot-osinstlad.png)
+
