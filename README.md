@@ -20,9 +20,16 @@ div align="center">
   <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-C00000?style=flat-square" />
 </p>
 
+# W2-PM1: Footprintng with Multiple Kali Tools
 
-# CREENSHOTS
-![](1-screenshot-osinstlad.png)
+# Task 1: Domain Registration Lookup (whois)
+#Standard lookup
+
+whois networkwalks.com
+
+
+![](1-screenshot-whois.png)
+
 
 
 ![](2-screenshot-windows-networksethings.png)
