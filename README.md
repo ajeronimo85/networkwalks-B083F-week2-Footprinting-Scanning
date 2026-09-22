@@ -66,7 +66,7 @@ dnsrecon -d networkwalks.com -t std
  # W2-PM3: Maltego-based Footprinting Attacks
 Workflow: Entity link analysis starting from domain networkwalks.com, executing transforms to discover DNS names, IP blocks, Netblocks, and organizational email addresses.
 
-![](4-screenshot-android-networksethings.png)
+![](7-screenshot-maltego.png)
 
 
 
