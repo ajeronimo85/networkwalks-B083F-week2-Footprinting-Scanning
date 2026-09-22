@@ -74,6 +74,8 @@ Harvests public corporate emails, employee names, search engine subdomains, and 
 
 ![](8-screenshot-theharvester.png)
 
+# W2-PM5: Zenmap & Nmap Network Scanning (Essential)
+![](4-screenshot-android-networksethings.png)
 
 
 
