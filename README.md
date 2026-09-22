@@ -63,10 +63,10 @@ Automates the retrieval of all DNS record types (SOA, NS, MX, A, AAAA, TXT, SPF)
 dnsrecon -d networkwalks.com -t std
 ![](6-screenshot-dnsrecon.png)
 
- # W2-PM2: GHDB-based Footprinting Attacks
- Resource: Google Hacking Database (GHDB) on Exploit-DB
-![](W2-pm2.pdf)
+ # W2-PM3: Maltego-based Footprinting Attacks
+Workflow: Entity link analysis starting from domain networkwalks.com, executing transforms to discover DNS names, IP blocks, Netblocks, and organizational email addresses.
 
+![](4-screenshot-android-networksethings.png)
 
 
 
