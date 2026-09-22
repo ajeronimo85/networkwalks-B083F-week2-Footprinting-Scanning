@@ -65,11 +65,13 @@ dnsrecon -d networkwalks.com -t std
 
  # W2-PM2: GHDB-based Footprinting Attacks
  Resource: Google Hacking Database (GHDB) on Exploit-DB
+![](W2-PM2 - Week2 - Project Module2 - Footp with GHDB v1 - TABLES to fill.pdf)
 
- 
 
 
-![](4-screenshot-android-networksethings.png)
+
+
+
 ![](4-screenshot-android-networksethings.png)
 
 
