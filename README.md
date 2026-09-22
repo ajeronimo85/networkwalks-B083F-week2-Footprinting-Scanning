@@ -32,6 +32,6 @@ Week 2 focuses on the foundational phases of ethical hacking and penetration tes
 # Standard lookup
 whois networkwalks.com
 # CREENSHOTS
-![](1-screenshot-osinstlad.png)
+![](1-screenshot-Whois.png)
 
 
