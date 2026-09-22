@@ -48,8 +48,14 @@ Sends an HTTP HEAD request to inspect response headers without downloading the p
 curl -I https://networkwalks.com
 curl -I https://example.com
 
+![](4-screenshot-curl -i.png)
+
+
+
+
 ![](4-screenshot-android-networksethings.png)
-
-
+![](4-screenshot-android-networksethings.png)
+![](4-screenshot-android-networksethings.png)
+![](4-screenshot-android-networksethings.png)
 
 
