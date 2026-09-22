@@ -42,6 +42,12 @@ nslookup networkwalks.com
 
 ![](3-screenshot-nslookup.png)
 
+# Task 4: HTTP Header & Endpoint Inspection (curl -I)
+Sends an HTTP HEAD request to inspect response headers without downloading the page body.
+
+curl -I https://networkwalks.com
+curl -I https://example.com
+
 ![](4-screenshot-android-networksethings.png)
 
 
