@@ -35,6 +35,11 @@ whatweb identifies CMS platforms, web server daemons, programming languages, and
 
 ![](2-screenshot-whatweb.png)
 
+# Task 3: DNS Name Resolution (nslookup)
+nslookup queries DNS servers to resolve a domain name to its IP addresses.
+
+nslookup networkwalks.com
+
 ![](3-screenshot-kalilinux-networksethings.png)
 
 ![](4-screenshot-android-networksethings.png)
