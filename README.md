@@ -61,10 +61,11 @@ wafw00f https://example.com
 Automates the retrieval of all DNS record types (SOA, NS, MX, A, AAAA, TXT, SPF) in a single pass.
 
 dnsrecon -d networkwalks.com -t std
+![](6-screenshot-dnsrecon.png)
 
 
 
-![](4-screenshot-android-networksethings.png)
+
 ![](4-screenshot-android-networksethings.png)
 ![](4-screenshot-android-networksethings.png)
 
