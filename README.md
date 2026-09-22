@@ -57,7 +57,10 @@ wafw00f https://networkwalks.com
 wafw00f https://example.com
 ![](5-screenshot-wafw00f.png)
 
+# Task 6: Full DNS Record Enumeration (dnsrecon)
+Automates the retrieval of all DNS record types (SOA, NS, MX, A, AAAA, TXT, SPF) in a single pass.
 
+dnsrecon -d networkwalks.com -t std
 
 
 
