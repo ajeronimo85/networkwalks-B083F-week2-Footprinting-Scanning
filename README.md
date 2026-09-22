@@ -64,7 +64,7 @@ dnsrecon -d networkwalks.com -t std
 ![](6-screenshot-dnsrecon.png)
 
 # W2-PM2: GHDB-based Footprinting Attacks
-![](6-screenshot-dnsrecon.png)
+![](2-footprintingattack.jpg)
 
  # W2-PM3: Maltego-based Footprinting Attacks
 Workflow: Entity link analysis starting from domain networkwalks.com, executing transforms to discover DNS names, IP blocks, Netblocks, and organizational email addresses.
