@@ -30,6 +30,8 @@ whois networkwalks.com
 
 ![](1-screenshot-whois.png)
 
+Figure 1: WHOIS output showing registrar (GoDaddy), creation/expiry dates, and name servers.
+
 
 
 ![](2-screenshot-windows-networksethings.png)
