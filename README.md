@@ -33,10 +33,7 @@ whois networkwalks.com
 # Task 2: Web Technology Fingerprinting (whatweb)
 whatweb identifies CMS platforms, web server daemons, programming languages, and JavaScript libraries.
 
-
-
-
-![](2-screenshot-windows-networksethings.png)
+![](2-screenshot-whatweb.png)
 
 ![](3-screenshot-kalilinux-networksethings.png)
 
