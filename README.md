@@ -68,6 +68,12 @@ Workflow: Entity link analysis starting from domain networkwalks.com, executing 
 
 ![](7-screenshot-maltego.png)
 
+# W2-PM4: theHarvester-based Footprinting Attacks
+theHarvester -d networkwalks.com -b all -l 100
+Harvests public corporate emails, employee names, search engine subdomains, and public IP ranges.
+
+![](4-screenshot-android-networksethings.png)
+
 
 
 
