@@ -50,6 +50,12 @@ curl -I https://example.com
 
 ![](4-screenshot-curl.png)
 
+# Task 5: Web Application Firewall Detection (wafw00f)
+Detects whether a website sits behind a Web Application Firewall (WAF) and identifies the vendor.
+
+wafw00f https://networkwalks.com
+wafw00f https://example.com
+
 
 
 
